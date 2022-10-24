@@ -1,3 +1,3 @@
 # 2048game
 
-2048 Game which can be played on the console. Created to practise Unit Tests.
+Very simple 2048 Game which can be played in a terminal. Created to practise Unit Tests.
